@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/docs/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/fragments/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/events/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/global-variables/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/image-fallthrough/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/supported-colors/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/development/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/fragments-implementation/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/deployment/</loc>
+  </url>
+  
+  <url>
+    <loc>/search/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about-old/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/credits/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>/download/</loc>
+  </url>
+  
+  <url>
+    <loc>/fragments/</loc>
+  </url>
+  
+  <url>
+    <loc>/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+  </url>
+  
+  <url>
+    <loc>/blog/profile_storing/</loc>
+  </url>
+  
+  <url>
+    <loc>/features/</loc>
+  </url>
+  
+  <url>
+    <loc>/media/</loc>
+  </url>
+  
+  <url>
+    <loc>/roadmap/</loc>
+  </url>
+  
+  <url>
+    <loc>/stats/</loc>
+  </url>
+  
+</urlset>
